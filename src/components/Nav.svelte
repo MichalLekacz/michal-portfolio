@@ -14,7 +14,7 @@
 				>Home</a
 			>
 			<a
-				href="http://localhost:5173/#Experience"
+				href="/"
 				class="text-blue-200 hover:bg-indigo-900 hover:text-indigo-300 px-3 py-2 rounded-md text-sm font-medium transition duration-500 ease-in-out"
 				>Experience</a
 			>
