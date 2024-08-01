@@ -1,15 +1,10 @@
 <script>
 	import Nav from '../components/Nav.svelte';
 	import Hero from '../components/Hero.svelte';
-
 	import Timeline from '../components/Timeline.svelte';
-
 	import Projects from '../components/Projects.svelte';
-
 	import Contact from '../components/Contact.svelte';
-
 	import Footer from '../components/Footer.svelte';
-
 	import { onMount } from 'svelte';
 
 	let glowRef;
