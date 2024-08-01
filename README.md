@@ -1,38 +1,50 @@
-# create-svelte
+# Personal Portfolio
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+This is my personal portfolio website, built using [Svelte](https://svelte.dev/) and [TailwindCSS](https://tailwindcss.com/). The project is still a work in progress.
 
-## Creating a project
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Introduction
+This repository contains the source code for my personal portfolio website. The website showcases my projects, skills, and experience.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Features
+- Responsive design
+- Smooth animations
+- Easy to update and maintain
+- Built with modern web technologies
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Installation
 
-## Developing
+To get a local copy up and running, follow these steps:
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+1. **Clone the repository**
+
+    ```bash
+    git clone https://github.com/your-username/your-repo-name.git
+    ```
+
+2. **Navigate to the project directory**
+
+    ```bash
+    cd your-repo-name
+    ```
+
+3. **Install dependencies**
+
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+To run the development server, execute:
 
 ```bash
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
